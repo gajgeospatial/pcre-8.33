@@ -1,0 +1,1 @@
+This project should be installed as PCRE_DIR with ProjectTool.

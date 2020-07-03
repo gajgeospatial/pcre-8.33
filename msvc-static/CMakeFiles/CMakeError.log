@@ -1,0 +1,227 @@
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec4269609851
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec4269609851, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:03 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec4269609851.dir\Debug\cmTryCompileExec4269609851.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec4269609851.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4269609851.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.16
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file inttypes.h exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1527330309
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1527330309, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:08 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec1527330309.dir\Debug\cmTryCompileExec1527330309.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1527330309.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1527330309.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'inttypes.h': No such file or directory
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.11
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec4173961608
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec4173961608, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:14 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec4173961608.dir\Debug\cmTryCompileExec4173961608.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec4173961608.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4173961608.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.11
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file type_traits.h exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec875282866
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec875282866, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:20 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec875282866.dir\Debug\cmTryCompileExec875282866.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec875282866.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec875282866.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.cxx
+1>  
+1>  CheckIncludeFile.cxx
+1>CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'type_traits.h': No such file or directory
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.15
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file bits/type_traits.h exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1343237713
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1343237713, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:22 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec1343237713.dir\Debug\cmTryCompileExec1343237713.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1343237713.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1343237713.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.cxx
+1>  
+1>  CheckIncludeFile.cxx
+1>CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'bits/type_traits.h': No such file or directory
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.12
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function bcopy exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3907321404
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3907321404, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:24 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec3907321404.dir\Debug\cmTryCompileExec3907321404.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=bcopy /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3907321404.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3907321404.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>CheckFunctionExists.obj : error LNK2019: unresolved external symbol _bcopy referenced in function _main
+1>D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3907321404.exe : fatal error LNK1120: 1 unresolved externals
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.29
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function strtoll exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2154965897
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec2154965897, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:31 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec2154965897.dir\Debug\cmTryCompileExec2154965897.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtoll /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2154965897.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2154965897.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>CheckFunctionExists.obj : error LNK2019: unresolved external symbol _strtoll referenced in function _main
+1>D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2154965897.exe : fatal error LNK1120: 1 unresolved externals
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.27
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function strtoq exists failed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec813153767
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.60610.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec813153767, Configuration: Debug Win32 ------
+1>Build started 8/6/2013 1:50:33 PM.
+1>PrepareForBuild:
+1>  Creating directory "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec813153767.dir\Debug\cmTryCompileExec813153767.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.60610.1 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtoq /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec813153767.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec813153767.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>CheckFunctionExists.obj : error LNK2019: unresolved external symbol _strtoq referenced in function _main
+1>D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec813153767.exe : fatal error LNK1120: 1 unresolved externals
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.35
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+

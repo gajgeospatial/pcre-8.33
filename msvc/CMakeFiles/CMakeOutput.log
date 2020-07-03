@@ -1,0 +1,253 @@
+The system is: Windows - 6.2 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3803282006
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3803282006, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3803282006.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3803282006.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>  cmTryCompileExec3803282006.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3803282006.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1833845193
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1833845193, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1833845193.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1833845193.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>  cmTryCompileExec1833845193.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1833845193.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec583401171
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec583401171, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec583401171.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec583401171.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>  cmTryCompileExec583401171.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec583401171.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3101182327
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3101182327, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3101182327.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3101182327.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>  cmTryCompileExec3101182327.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3101182327.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3082579647
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3082579647, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3082579647.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3082579647.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec3082579647.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3082579647.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1625611341
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1625611341, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1625611341.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1625611341.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec1625611341.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1625611341.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3574007040
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3574007040, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3574007040.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3574007040.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec3574007040.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3574007040.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file windows.h exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2118349995
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec2118349995, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2118349995.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2118349995.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec2118349995.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2118349995.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function memmove exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1525507903
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1525507903, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=memmove /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1525507903.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1525507903.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>  cmTryCompileExec1525507903.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1525507903.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec384212539
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec384212539, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strerror /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec384212539.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec384212539.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>  cmTryCompileExec384212539.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec384212539.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the function _strtoi64 exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec664727593
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec664727593, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=_strtoi64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec664727593.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec664727593.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CheckFunctionExists.c"
+1>  
+1>  CheckFunctionExists.c
+1>  cmTryCompileExec664727593.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec664727593.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2720399204
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec2720399204, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2720399204.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2720399204.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFile.c
+1>  
+1>  CheckIncludeFile.c
+1>  cmTryCompileExec2720399204.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2720399204.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining size of long long passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec7786066
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec7786066, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec7786066.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec7786066.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CheckTypeSize\LONG_LONG.c"
+1>  
+1>  LONG_LONG.c
+1>  cmTryCompileExec7786066.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec7786066.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining size of unsigned long long passed with the following output:
+Change Dir: D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~3.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec579031690
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.61030.0.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec579031690, Configuration: Debug Win32 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 17.00.61030 for x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec579031690.dir\Debug\\" /Fd"D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec579031690.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CheckTypeSize\UNSIGNED_LONG_LONG.c"
+1>  
+1>  UNSIGNED_LONG_LONG.c
+1>  cmTryCompileExec579031690.vcxproj -> D:\Development\op3d_active\pcre-8.33\msvc\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec579031690.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+

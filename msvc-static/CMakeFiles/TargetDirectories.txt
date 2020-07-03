@@ -1,0 +1,10 @@
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/ALL_BUILD.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/ZERO_CHECK.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcre.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcre_scanner_unittest.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcre_stringpiece_unittest.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcrecpp.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcrecpp_unittest.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcregrep.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcreposix.dir
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/pcretest.dir

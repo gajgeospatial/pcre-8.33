@@ -1,0 +1,47 @@
+# CMake generation dependency list for this directory.
+D:/Development/op3d_active/pcre-8.33/CMakeLists.txt
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeSystem.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCCompiler.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-cl.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCPlatform.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCXXPlatform.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/cl.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-cl.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCPlatform.cmake
+D:/Development/op3d_active/pcre-8.33/msvc/CMakeFiles/CMakeCXXPlatform.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/Platform/cl.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/FindBZip2.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/FindZLIB.cmake
+D:/Development/op3d_active/pcre-8.33/cmake/FindReadline.cmake
+D:/Development/op3d_active/pcre-8.33/cmake/FindPackageHandleStandardArgs.cmake
+D:/Development/op3d_active/pcre-8.33/cmake/FindEditline.cmake
+D:/Development/op3d_active/pcre-8.33/cmake/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeExpandImportedTargets.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeExpandImportedTargets.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CMakeParseArguments.cmake
+D:/Development/op3d_active/pcre-8.33/config-cmake.h.in
+D:/Development/op3d_active/pcre-8.33/pcre.h.in
+D:/Development/op3d_active/pcre-8.33/pcre_stringpiece.h.in
+D:/Development/op3d_active/pcre-8.33/pcrecpparg.h.in
+D:/Development/op3d_active/pcre-8.33/pcre_chartables.c.dist
